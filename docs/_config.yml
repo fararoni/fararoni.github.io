@@ -259,6 +259,8 @@ defaults:
       nav_key: samples
       show_date: false
   ## docs
+
+  
   - scope:
       path: "_docs/en"
     values:
@@ -273,16 +275,16 @@ defaults:
       show_date: false
       # lightbox: true
   - scope:
-      path: "_docs/zh"
+      path: "_docs/es"
     values:
       layout: article
       nav_key: docs
       sidebar:
-        nav: docs-zh
+        nav: docs-es
       license: true
       aside:
         toc: true
-      lang: zh
+      lang: es
       show_edit_on_github: true
       show_date: false
       # lightbox: true
