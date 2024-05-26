@@ -22,7 +22,7 @@ url     : https://fararoni.github.io/ # the base hostname & protocol for your si
 baseurl :   ""  # does not include hostname
 title   : Fararoni.NET.1
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Fararoni.NET
 
 
 ## => Language and Timezone
