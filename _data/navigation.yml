@@ -12,3 +12,13 @@ header:
       en      : &EN       About
       # @end locale config
     url: /about.html
+
+docs-es:
+  - title:      Inicio
+    children:
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /docs/en/structure
+      - title:  Update from 1.x to 2.x
+        url:    /docs/en/update-from-1-to-2
