@@ -211,6 +211,7 @@ defaults:
       license: true
       aside:
         toc: true
+        nav: docs-en
       sidebar:
         nav: docs-en
       show_edit_on_github: true
